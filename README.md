@@ -1,11 +1,14 @@
 # presentl
 An HTML5 web app project presentation template.
 
+[View a Live Preview](https://staruwos.github.io/presentl/)
 
 ## What's about?
 **presentl** is an HTML5 template to be used as a presentation app for your projects.
 The idea is to divide the presentation/project into cards.
 The cards, when clicked, redirect to individual pages inside the app.
+
+This project uses Tailwind.css as a frontend base. 
 
 ## How to use it
 Clone the repository in your machine or simple download the files.
